@@ -1,0 +1,19 @@
+# menggunakan setup postgres sql untuk file export bernama file.sql
+# menggunakan laravel breeze sehingga perlu melakukan installasi breeze dengan command php artisan install:breze
+# kemudian menjalakan npm run dev untuk mengaktifkan trarct aktif terhadap tailwind css.
+
+# dari progress yang sudah dibuat adalah 
+Table yang perlu dibuat adalah :
+1. Master Pegawai : sudah 
+2. Master Gaji Pegawai : sudah 
+3. Master Hari Kerja dan Jam Masuk Kerja : sudah 
+4. Data Absensi Karyawan : sudah
+5. Master Login Admin : sudah 
+Menu / form yang perlu dibuat adalah :
+1. Form Login Admin : sudah 
+2. Form Absensi : belum (relasi sudah)
+3. Form Master Pegawai : sudah
+4. Form Gaji Pegawai (Komponen Gaji & Denda Keterlambatan) (sudah terkait gaji dan allowance dan untuk denda belum)
+5. Form Master Hari Kerja dan Jam Masuk Kerja (sudah)
+6. Buat Laporan Rekap Gaji Karyawan Periode Gaji Perbulan (belum)
+7. Slip Gaji (belum)
